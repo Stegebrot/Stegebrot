@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas Lisik
+- 👋 Hi, I’m Stegebrot
 - 🌱 I’m currently learning C#
 
 <!---
